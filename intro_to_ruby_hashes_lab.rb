@@ -42,7 +42,8 @@ def monopoly_with_third_tier
 end
 
 def monopoly_with_fourth_tier
-		reading_railroad: {}
+		reading_railroad: {
+		}
 		
 		
 		monopoly = {"railroads": {
