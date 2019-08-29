@@ -44,6 +44,7 @@ end
 def monopoly_with_fourth_tier
   monopoly ={ reading_railroad: {}
 		monopoly = {"railroads": {
+		}
       pieces: 4,
       names: {},
       rent_in_dollars: {one_piece_owned: 25, 
